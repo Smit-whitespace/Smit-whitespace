@@ -104,5 +104,5 @@ I'm actively looking for **AI Engineering** or **Backend Engineering (Python)** 
 ---
 
 <div align="center">
-<sub>Last updated: June 2025</sub>
+<sub>Last updated: May 2026</sub>
 </div>
