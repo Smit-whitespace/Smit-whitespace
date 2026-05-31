@@ -2,7 +2,7 @@
 
 # Smit Kagathara
 
-**AI Application Engineer · Backend Engineer · CS Graduate**
+**AI Application Engineer · Backend Engineer · CE Graduate**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitkagathara/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smit-portfolio-five.vercel.app/)
@@ -72,7 +72,7 @@ A full-stack backend system that automates lab report creation using AI. Built w
 > **More projects coming soon** — currently building RAG pipeline projects and additional FastAPI backends.
 
 ---
-
+<!---
 ## GitHub Stats
 
 <div align="center">
@@ -84,13 +84,13 @@ A full-stack backend system that automates lab report creation using AI. Built w
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Smit-whitespace&theme=github-dark-blue&hide_border=true)
 
 </div>
-
+-->
 ---
 
 ## Current Focus
 
 - Deepening RAG pipeline knowledge — chunking strategies, retrieval evaluation, reranking
-- Building 2–3 more public AI projects before end of Q3 2025
+- Building 2–3 more public AI projects before end of Q3 2026
 - Preparing for AI Engineer and Backend Engineer interviews
 
 ---
